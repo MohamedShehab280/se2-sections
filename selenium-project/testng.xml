@@ -1,0 +1,6 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Week 3 - First Selenium Script">
+    <test name="First script">
+        <classes><class name="week3.FirstProject"/></classes>
+    </test>
+</suite>
